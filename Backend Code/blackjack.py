@@ -53,3 +53,6 @@ class Blackjack:
 
 b = Blackjack()
 b.play()
+
+b = Blackjack()
+b.play()
